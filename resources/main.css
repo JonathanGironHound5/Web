@@ -1,24 +1,31 @@
 .o-info-container{
-    width: 100vw;
-    background-color: aquamarine;
+    width: 30vh;
+    background-color: rgb(131, 138, 168);
 }
 .o-img-profile{
-    height: 10rem;
-    
+    height: 7rem;
+        
 }
 .o-portfolio-container{
-    margin: 2em 5rem 1rem 0;
-    background-color: brown;
+    margin: 2rem 5rem 5rem 0;
+    background-color: rgb(131, 138, 168);
     padding: 1rem;
    }
    
 .o-portfolio-container .o-bisque{
-    background-color: bisque;
+    background-color:rgb(168,159,131);
+    
 }
 .o-project{
-    background-color: white;
+    margin-top: 1rem;
+    background-color: rgb(168,159,131);
     padding: 1rem;
+    border-style: solid;
+    border-width: 2px;
 }
 #project2{
-    background-color: yellow;
+    background-color: rgb(168,159,131);
 }
+body {
+    background-color: rgb(215, 221, 245);
+  }
