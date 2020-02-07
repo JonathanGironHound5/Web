@@ -3,7 +3,7 @@
     background-color: rgb(131, 138, 168);
 }
 .o-img-profile{
-    height: 7rem;
+    height: 15rem;
         
 }
 .o-portfolio-container{
@@ -13,18 +13,24 @@
    }
    
 .o-portfolio-container .o-bisque{
-    background-color:rgb(168,159,131);
+    background-color:rgb(215, 221, 245);
     
 }
 .o-project{
     margin-top: 1rem;
-    background-color: rgb(168,159,131);
+    background-color: rgb(215, 221, 245);
     padding: 1rem;
     border-style: solid;
     border-width: 2px;
 }
 #project2{
-    background-color: rgb(168,159,131);
+    background-color: rgb(215, 221, 245);
+}
+.o-img-paperpaths{
+    width: 30rem;
+}
+.o-img-Bmovie{
+    width: 30rem;
 }
 body {
     background-color: rgb(215, 221, 245);
