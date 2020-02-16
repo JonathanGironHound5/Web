@@ -1,0 +1,178 @@
+body{
+    margin: 0;
+    background-color: rgb(35, 31, 32)
+}
+.o-banner{
+    text-align: center;
+    padding: 15px; 
+    background-color: white;
+         
+}
+.o-banner a{
+    padding: 10px;
+}
+.o-color-background{
+    display: flex;  
+    background-color: rgb(35, 31, 32);
+    flex-direction: column;
+    height: 40rem;
+    
+    
+}
+.o-img-backroung { 
+    display: flex;      
+    width: 40rem;
+    height: 40rem;
+    align-self: center;
+}
+.o-info-name{
+    display: flex;
+    margin-top: -40rem;
+    justify-content: center;
+}
+.o-info-career{
+    display: flex;
+    margin-top: -3rem;
+    justify-content: center;
+
+}
+.o-info-About{
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+}
+.o-aboutme{
+    display: flex;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    align-self: center;
+
+}
+.o-info-containerB{
+    display: flex;
+    background-color: white;
+    
+}
+
+.o-img-profile{
+    
+    display: flex;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    align-self: flex-start;
+    border-radius: 50%;
+    width: 8rem;
+    height: 10rem;
+}
+.o-info{
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+.o-info-projects{
+    display: flex;
+    margin-top: 2rem;
+    flex-direction: column;
+    background-color: rgb(35, 31, 32);   
+}
+.o-projects{
+    display: flex;
+    align-self:center;
+}
+.o-first-project{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5rem;
+}
+.o-img-first-project{
+    display: flex;    
+    margin-top: 1rem;
+    margin-left: 2rem;    
+    width: 25rem;
+}
+.o-bpeliculas{
+    display: flex;
+    margin-left: 3rem;
+    flex-direction: column;  
+
+}
+.o-bpeliculas-text{
+    margin-right: 10rem;
+}
+.o-second-project{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5rem;
+}
+.o-img-second-project{
+    display: flex;    
+    margin-top: 1rem;
+    margin-left: 2rem;    
+    width: 25rem;
+}
+.o-paperpaths{
+    display: flex;
+    margin-left: 3rem;
+    flex-direction: column;  
+
+}
+.o-paperpaths-text{
+    margin-right: 10rem;
+}
+.o-third-project{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5rem;
+}
+.o-img-third-project{
+    display: flex;    
+    margin-top: 1rem;
+    margin-left: 2rem;    
+    width: 25rem;
+}
+.o-vd{
+    display: flex;
+    margin-left: 3rem;
+    flex-direction: column;  
+
+}
+.o-vd-text{
+    margin-right: 10rem;
+}
+.o-info-contact{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+.o-contact{
+    display: flex;
+    align-self: center;
+}
+.o-name{
+    display: flex;
+    align-self: center;
+}
+.o-email{
+    margin-top: -1rem;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+}
+.o-icon-email{
+    display: flex;
+    width: 2rem;
+    padding-right: 1rem;
+    align-self: center;    
+}
+.o-iconesLG{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    
+}
+.o-icon-linkendin{
+   padding-right: 1rem;
+    width: 2rem;
+}
+.o-icon-github{
+    width: 2rem;
+}
